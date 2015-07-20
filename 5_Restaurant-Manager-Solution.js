@@ -1,5 +1,6 @@
+'use strict';
+
 function processRestaurantManagerCommands(commands) {
-    'use strict';
 
     var Types = {
         Boolean: typeof true,
